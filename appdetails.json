@@ -1,0 +1,28 @@
+{
+  "ads":"true",
+  "update":[{
+    "version":"2.8.1600",
+    "title":"This app is now Open Source",
+    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
+    "size":"https://git.io/JeY69"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Server0","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Server1","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":2, "file":2, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":3, "file":3, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":4, "file":4, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":5, "file":5, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":6, "file":6, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":7, "file":7, "city":"Tokyo","country":"Japan","image":"japan","ip":"205.185.119.100","active":"true","signal":"c"}
+  ]
+}
