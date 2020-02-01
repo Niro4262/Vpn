@@ -18,11 +18,8 @@
   "free":[
     {"id":0, "file":0, "city":"Server0","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"Server1","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":2, "file":2, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":3, "file":3, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":4, "file":4, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":5, "file":5, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":6, "file":6, "city":"Hamburg","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":7, "file":7, "city":"Tokyo","country":"Japan","image":"japan","ip":"205.185.119.100","active":"true","signal":"c"}
+    {"id":2, "file":2, "city":"Server3","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":3, "file":3, "city":"Server4","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":4, "file":4, "city":"Server5","country":"United States","image":"unitedstates","ip":"51.68.191.75","active":"true","signal":"b"}
   ]
 }
